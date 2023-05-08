@@ -1,0 +1,11 @@
+server:
+  port: 9511
+
+spring:
+  application:
+    name: boot-udp
+
+
+udp-config:
+  hostname: 120.25.212.197
+  port: 6118
